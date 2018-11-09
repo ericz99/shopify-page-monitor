@@ -18,10 +18,26 @@ const config = require(path.join(__dirname, "config.json"));
 
 const formattedProxies = [];
 
-function formatProxy(proxy) {
-  if (proxy && ["localhost", ""].indexOf(proxy) < 0) {
-    let splitProxy = proxy.split(":");
-    if (splitProxy.length > 3) {
-    }
+const text = fs.readFileSync("./proxies.txt", "utf-8"); // credit _luqy
+
+const newLine = text.split("\r\n");
+
+for (let i = 0; i < newLine.length; i++) {
+  let splitProxy = newLine[i].split(":");
+  if (splitProxy.length > 3) {
+    formattedProxies.push(
+      "https://" +
+        splitProxy[2] +
+        ":" +
+        splitProxy[3] +
+        "@" +
+        splitProxy[0] +
+        ":" +
+        splitProxy[1]
+    );
+  } else {
+    formattedProxies.push("http://" + splitProxy[0] + ":" + splitProxy[1]);
   }
 }
+
+/* ------------------------------------------------------------------ Proxy Support ---------------------------------------------------------------------------------- */
