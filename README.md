@@ -37,8 +37,8 @@ Still under development, but password page monitor is done already. Please enjoy
 
 ## TODO List
 
-[ x ] Password Page Monitor 
-[ x ] Proxy Support
+- [x] Password Page Monitor 
+- [x] Proxy Support
 
 ## Social Media
 
