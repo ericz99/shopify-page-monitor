@@ -1,7 +1,7 @@
 # Shopify Password Page Monitor
 
 You are able to monitor any password page. The monitor will send you notification when the password page is up or down.
-Currently under development... Just wait pls. I'm currently busy and it's on hold right now!
+Still under development, but password page monitor is done already. Please enjoy yourself!
 
 ## Instruction
 
@@ -35,9 +35,10 @@ Currently under development... Just wait pls. I'm currently busy and it's on hol
 - Database integration
 - Much more...
 
-## Disclaimer
+## TODO List
 
-This project was made for educational purposes only. Please use responsibly. Any abused from this script will result in suspension by Instagram.
+[ x ] Password Page Monitor 
+[ x ] Proxy Support
 
 ## Social Media
 
