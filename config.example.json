@@ -1,0 +1,13 @@
+{
+  "interval": 10000,
+  "app": {
+    "sites": [
+      "https://monitorme.myshopify.com",
+      "https://yeezysupply.com/",
+      "https://eflash.doverstreetmarket.com",
+      "https://eflash-us.doverstreetmarket.com"
+    ]
+  },
+  "webhook": "",
+  "spam": true
+}
