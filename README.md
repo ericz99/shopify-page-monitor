@@ -6,7 +6,7 @@ Still under development, but password page monitor is done already. Please enjoy
 ## Instruction
 
 - NPM install
-- cd password-monitor
+- cd shopify-page-monitor
 - npm start to run
 
 ## Requirements
@@ -37,7 +37,7 @@ Still under development, but password page monitor is done already. Please enjoy
 
 ## TODO List
 
-- [x] Password Page Monitor 
+- [x] Password Page Monitor
 - [x] Proxy Support
 
 ## Social Media
