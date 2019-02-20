@@ -3,6 +3,17 @@
 You are able to monitor any password page. The monitor will send you notification when the password page is up or down.
 Still under development, but password page monitor is done already. Please enjoy yourself!
 
+## UPDATE
+
+Hello, if yall still wondering if I am going to update this and make it into a real shopify monitor? Then, the answer is yes! I am currently making it right now. Everything is working smoothly. Just need to add more site support thats all + proxy support(current running 10000ms still get temp ban). But, there's still much to be done and btw im using the old endpoint so you can't expect it to be fast unless you use fast ass dc proxies. Also, I am using everything I know and learned from to make a good shopify monitor because its my first time actually making one. Also, I will also make a GUI just like https://github.com/dzt/shopify-monitor but more updated version of course. It's still being worked on, so I hope yall can wait just a little longer. Thanks :)
+
+## SITE SUPPORTED AS OF NOW!
+
+- Kith - TESTED AND WORKED - 3-5 sec delay behind other monitor(just need good proxies thats all)
+- Undefeated - TESTED AND WORKED - 3-5 sec delay behind other monitor(just need good proxies thats all)
+- Bodega - TESTED AND WORKED - 3-5 sec delay behind other monitor(just need good proxies thats all)
+- Palace - TESTED AND WORKED - 3-5 sec delay behind other monitor(just need good proxies thats all)
+
 ## Instruction
 
 - NPM install
@@ -38,7 +49,9 @@ Still under development, but password page monitor is done already. Please enjoy
 ## TODO List
 
 - [x] Password Page Monitor
-- [x] Proxy Support
+- [ ] Proxy Support
+- [ ] Restock Monitor - coming soon...
+- [ ] GUI - coming soon...
 
 ## Social Media
 
