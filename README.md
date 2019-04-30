@@ -45,7 +45,3 @@ Sorry, keeping the shopify monitor lowkey for now. I'm currently super busy with
 - [ ] Proxy Support
 - [ ] Restock Monitor - coming soon...
 - [ ] GUI - coming soon...
-
-## Social Media
-
-Follow me https://twitter.com/washed_kid on twitter!
